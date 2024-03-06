@@ -1,0 +1,28 @@
+A=V, B=F, C=F e D=V
+2)   S = (D v A ^ C) v ~(B v C)
+
+S= (V v V ^ F) v ~(F v F)
+S= V v V
+                                                                                         A=V, B=F, C=F e D=V
+s= V
+
+3)   S = ~(A v B)
+
+~(V v F)
+
+~(V)
+
+S=F
+
+4)   S = ~(A ^ B)
+S= ~(V ^ F)
+~(F)
+
+V
+
+5)     S = C v ~B ^ (A v ~D)
+
+F v V ^ (V v F)
+V ^ V
+
+V
